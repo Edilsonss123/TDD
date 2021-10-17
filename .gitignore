@@ -4,3 +4,4 @@ vendor/
 testdox.txt
 /src/Infra/configDataBase.php
 .vscode/
+config.json
